@@ -1,0 +1,12 @@
+langchain
+python-dotenv
+streamlit
+unstructured
+tiktoken
+faiss-cpu
+libmagic
+OpenAI
+langchain-openai
+langchain-community
+langchain-classic
+langchain-unstructured
