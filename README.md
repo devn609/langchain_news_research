@@ -1,4 +1,4 @@
-# News Research Tool
+# News Research RAG
 
 This is a news research tool designed for effortless information retrieval. Users can input webpage article URLs and ask questions to receive relevant insights from the articles.
 
